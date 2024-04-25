@@ -3,6 +3,8 @@
 ## Overview
 
 The Sales Summary Dashboard is a data visualization project built using QlikView. It provides an interactive dashboard for analyzing sales data, trends, and performance metrics.
+
+## Dashboard Link
 <iframe src="https://0opur2w4qik2yij.sg.qlikcloud.com/single/?appid=7f6baeb6-930e-481e-9380-1c3eb40addde&sheet=PWjPfX&theme=breeze&opt=ctxmenu,currsel" style="border:none;width:100%;height:100%;"></iframe> 
 
 ## Features
@@ -53,7 +55,3 @@ We welcome contributions to enhance the Sales Summary Dashboard. To contribute:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this template according to your specific project details and requirements. Let me know if there's anything else you'd like to add or modify!
